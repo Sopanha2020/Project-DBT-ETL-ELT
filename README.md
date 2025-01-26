@@ -36,8 +36,8 @@ Ce dépôt contient :
 ### 2. Installation
 
 1. Créez un environnement virtuel Python dans terminal de VSCode:
-   python -m venv my-dbt-env
-   .\my-dbt-env\Scripts\activate  # Windows
+     python -m venv my-dbt-env
+     .\my-dbt-env\Scripts\activate  # Windows
 
 
 2. Utilisation du projet de démarrage
