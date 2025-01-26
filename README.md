@@ -31,7 +31,6 @@ Essayez d'exécuter les commandes suivantes :
 - `dbt init`
 - `dbt run`
 - `dbt test`
-- `dbt doc`
 - `dbt seed`
 
 ### 3. Ressources
