@@ -1,4 +1,4 @@
-dbt1:
+mydbt:
   target: dev
   outputs:
     dev:
