@@ -1,11 +1,11 @@
 # ☁️ Bienvenue à notre projet ETL/ELT!
-Cette quête propose une introduction à l'outil **DBT (Data Build Tool)**, un élément clé pour les transformations de données dans un processus ETL/ELT.
+Cette Challenge propose une introduction à l'outils **DBT (Data Build Tool)**, un élément clé pour les transformations de données dans un processus ETL/ELT.
 C'est-à-dire :
 - Extract (Extraire) : 🗂️📤 (Extraction des données depuis les sources)
 - Transform (Transformer) : 🔄🧩 (Transformation et nettoyage des données)
 - Load (Charger) : 📥💾 (Chargement des données dans une destination)
 
-## 🎯 Objectifs de la quête
+## 🎯 Objectifs de la challenge
 
 - ✅ Découvrir le fonctionnement et l'intérêt de DBT pour les transformations de données.
 - ✅ Installer et configurer DBT Core en local.
