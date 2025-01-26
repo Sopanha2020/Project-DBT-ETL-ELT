@@ -11,21 +11,6 @@ C'est-à-dire :
 - ✅ Installer et configurer DBT Core en local.
 - ✅ Comprendre la structure d'un projet DBT.
 
----
-
-## 📚 Contenu du dépôt
-
-Ce dépôt contient :
-
-- **Structure de projet DBT** : Dossiers et fichiers créés via la commande `dbt init`.
-- **Configuration de DBT** :
-  - Le fichier `dbt_project.yml` contenant les configurations générales du projet.
-  - Un exemple de fichier `profiles.yml` pour se connecter à une base de données MySQL.
-- **Scripts SQL** : Modèles de transformation et fichiers pour manipuler les données.
-- **Base de données MySQL** : Un script Python pour importer les données brutes dans une base MySQL à l'aide de SQLAlchemy.
-
----
-
 ## 🚀 Instructions pour démarrer le projet
 
 ### 1. Prérequis
