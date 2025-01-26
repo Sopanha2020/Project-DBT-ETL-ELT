@@ -35,24 +35,24 @@ Ce dépôt contient :
 
 ### 2. Installation
 
-1. Créez un environnement virtuel Python :
-   ```bash
+1. Créez un environnement virtuel Python dans terminal de VSCode:
    python -m venv my-dbt-env
-   source my-dbt-env/bin/activate  # Mac/Linux
    .\my-dbt-env\Scripts\activate  # Windows
 
 
-Représentation complète :
-### Using the starter project
+2. Utilisation du projet de démarrage
 
-Try running the following commands:
-- dbt run
-- dbt test
+Essayez d'exécuter les commandes suivantes :
+- `dbt init`
+- `dbt run`
+- `dbt test`
+- `dbt doc`
+- `dbt seed`
 
+### 3. Ressources
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+- Pour en savoir plus sur dbt, consultez [la documentation](https://docs.getdbt.com/docs/introduction)
+- Consultez [Discourse](https://discourse.getdbt.com/) pour des questions et réponses fréquentes
+- Rejoignez le [chat](https://community.getdbt.com/) sur Slack pour des discussions et du support en direct
+- Trouvez des [événements dbt](https://events.getdbt.com) près de chez vous
+- Consultez [le blog](https://blog.getdbt.com/) pour les dernières actualités sur le développement et les meilleures pratiques de dbt
