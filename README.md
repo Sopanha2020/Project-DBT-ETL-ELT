@@ -22,7 +22,7 @@ C'est-à-dire :
 
 1. Créez un environnement virtuel Python dans terminal de VSCode:
     - python -m venv my-dbt-env
-    - .\my-dbt-env\Scripts\activate  # Windows
+    - .\my-dbt-env\Scripts\activate 
 
 
 2. Utilisation du projet de démarrage
