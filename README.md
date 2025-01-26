@@ -1,5 +1,14 @@
-Welcome to your new dbt project!
+# ☁️💻📊 Bienvenue à notre projet ETL/ELT!
+Cette quête propose une introduction à l'outil **DBT (Data Build Tool)**, un élément clé pour les transformations de données dans un processus ELT.
+C'est-à-dire :
+- Extract (Extraire) : 🗂️📤 (Extraction des données depuis les sources)
+- Transform (Transformer) : 🔄🧩 (Transformation et nettoyage des données)
+- Load (Charger) : 📥💾 (Chargement des données dans une destination)
 
+
+
+
+Représentation complète :
 ### Using the starter project
 
 Try running the following commands:
