@@ -1,0 +1,14 @@
+
+    
+    
+    
+    create table `my_dbt_db`.`customer_status` (`customer_status` text,`min_order_count` integer,`max_order_count` integer)
+  ;
+    -- dbt seed --
+    
+          insert into `my_dbt_db`.`customer_status` (`customer_status`, `min_order_count`, `max_order_count`) values
+          (%s,%s,%s),(%s,%s,%s),(%s,%s,%s)
+      
+
+;
+  
