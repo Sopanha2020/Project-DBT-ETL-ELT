@@ -1,4 +1,4 @@
-# ☁️ Bienvenue à notre Challenge - DBT ETL/ELT!
+# ☁️ Projet - DBT ETL/ELT!
 Cette challenge propose une introduction à l'outils **DBT (Data Build Tool)**, un élément clé pour les transformations de données dans un processus ETL/ELT.
 C'est-à-dire :
 - Extract (Extraire) : 🗂️📤 (Extraction des données depuis les sources)
