@@ -5,7 +5,7 @@ ETL/ELT signifie :
 - Transform (Transformer) : 🔄🧩 (Transformation et nettoyage des données)
 - Load (Charger) : 📥💾 (Chargement des données dans une destination)
 
-## 🎯 Objectifs de la challenge
+## 🎯 Objectifs de ce projet
 
 - ✅ Découvrir le fonctionnement et l'intérêt de DBT pour les transformations de données.
 - ✅ Installer et configurer DBT Core en local.
