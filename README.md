@@ -1,6 +1,6 @@
 # ☁️ Projet - DBT ETL/ELT!
 Ce projet propose une introduction à l'outils **DBT (Data Build Tool)**, un élément clé pour les transformations de données dans un processus ETL/ELT.
-ETL/ELT signifie :
+Il signifie :
 - Extract (Extraire) : 🗂️📤 (Extraction des données depuis les sources)
 - Transform (Transformer) : 🔄🧩 (Transformation et nettoyage des données)
 - Load (Charger) : 📥💾 (Chargement des données dans une destination)
